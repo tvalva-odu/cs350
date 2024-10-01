@@ -1,1 +1,2 @@
-# cs350 programming assignemtns etc.
+# cs350 programming assignments
+etc.
